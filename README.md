@@ -33,7 +33,8 @@ systemd(1)─┬─NetworkManager(778)
            ├─mysqld(2001)
            └─python3(1234)
 ```
-![alt text](<Screenshot 2025-09-25 103139 - Copy.png>)
+<img width="1225" height="664" alt="Screenshot 2025-09-25 103139 - Copy" src="https://github.com/user-attachments/assets/1dad62ac-149d-4191-9615-46714195fcb7" />
+
 ---
 
 ## 📊 **3. Real-Time Monitoring: `top`**
@@ -69,7 +70,9 @@ MiB Swap:      0.0 total,      0.0 free,      0.0 used.   4638.2 avail Mem
 ```
 👉 Press `q` to quit.
 
-![alt text](<Screenshot 2025-09-25 110738 - Copy.png>)
+<img width="1214" height="673" alt="Screenshot 2025-09-25 110738 - Copy" src="https://github.com/user-attachments/assets/9fa05808-5b16-41b5-add8-4b51786765ac" />
+
+
 ---
 
 ## ⚡ **4. Adjust Process Priority**
@@ -166,5 +169,6 @@ echo 100M   | sudo tee /sys/fs/cgroup/memory/testgroup/memory.limit_in_bytes
 ```
 echo 3050 | sudo tee /sys/fs/cgroup/cpu/testgroup/cgroup.procs
 ```
-![alt text](image.png)
+<img width="800" height="486" alt="image" src="https://github.com/user-attachments/assets/63486837-b970-4870-82b4-dcaba741157a" />
+
 ---
