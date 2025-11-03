@@ -17,7 +17,8 @@ root         1  0.0  0.1 167500  1100 ?        Ss   Sep25   0:05 /sbin/init
 vibhu     1234  1.2  1.5 274532 15632 ?        Sl   10:15   0:12 /usr/bin/python3 script.py
 mysql     2001  0.5  2.0 450000 20988 ?        Ssl  Sep25   1:02 /usr/sbin/mysqld
 ```
-![alt text](<Screenshot 2025-09-25 102201.png>)
+<img width="1207" height="770" alt="Screenshot 2025-09-25 102201" src="https://github.com/user-attachments/assets/0bfb90c7-034d-443b-a395-87d68df51de3" />
+
 
 
 ---
